@@ -21,7 +21,10 @@ Tecle enter e irá pedir o ip do seu servidor, coloque de acordo com o seu e tec
 Comandos úteis:
 
 iniciar squid: /usr/sbin/squid #
+
 Parar squid: /usr/sbin/squid -k shutdown
+
 Reiniciar squid (nem sempre funciona): /usr/sbin/squid -k restart
+
 
 @AnonymousGT
